@@ -1,0 +1,22 @@
+{
+  "name": "automate-with-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01-node-arguments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miku86/automate-with-nodejs.git"
+  },
+  "author": "miku86",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/miku86/automate-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/miku86/automate-with-nodejs#readme",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
